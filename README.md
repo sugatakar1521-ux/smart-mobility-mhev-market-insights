@@ -9,7 +9,7 @@ The global [**Mild Hybrid Electric Vehicle Market**](https://www.nextmsc.com/rep
 
 **Current Growth Dynamics and Valuation Drivers**
 
-The global automotive market continues to evolve rapidly. While BEVs have achieved significant market share milestones, such as surpassing petrol vehicle sales in the European Union in recent months, many OEMs are recalibrating their strategies to accelerate hybrid offerings amid shifting incentives and consumer demand patterns. Recent data reveals policy shifts—including the rollback of U.S. federal EV tax credits—that are causing some manufacturers to pivot investment toward hybrid technologies and away from full electrification programs. Such structural adjustments have amplified interest in mild hybrid architectures as a near‑term growth opportunity.
+The global automotive market continues to evolve rapidly. While BEVs have achieved significant market share milestones, such as surpassing petrol vehicle sales in the European Union in recent months, many OEMs are recalibrating their strategies to accelerate hybrid offerings amid shifting incentives and consumer demand patterns . Recent data reveals policy shifts—including the rollback of U.S. federal EV tax credits—that are causing some manufacturers to pivot investment toward hybrid technologies and away from full electrification programs. Such structural adjustments have amplified interest in mild hybrid architectures as a near‑term growth opportunity.
 
 **Technological and Product Trends**
 
